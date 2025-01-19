@@ -13,9 +13,6 @@ Pipe-Fantasy is a survival game where the player is tryng to last as long as pos
 - Lose condition by letting the goo exit the pipes. 
 - User-friendly interface with clear instructions and feedback.
 
-## Access to Code 
-Please note that the code for this project is private due to class policies. If you want access to the code, feel free to reach out, and it can be provided upon request.
-
 ## Getting Started
 
 1. Clone the repository to your local machine.
